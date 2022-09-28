@@ -1,0 +1,11 @@
+
+
+body {
+	height: 100vh;
+	width: 100vh;
+	display: flex;
+	background: url(https://forms.office.com/Images/Theme/meeting.png) no-repeat center center fixed;
+	background-size: cover;
+	justify-content: center;
+
+}
